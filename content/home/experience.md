@@ -25,10 +25,7 @@ date_format = "January 2006"
   location = "Kumasi, Ghana"
   date_start = "2005-08-01"
   date_end = "2006-07-31"
-  description = """
-  Responsibilities include:
-  
-  """
+
 
 [[experience]]
   title = "Accounting Assistant"
@@ -37,6 +34,6 @@ date_format = "January 2006"
   location = "Accra, Ghana"
   date_start = "2010-10-31"
   date_end = "2013-07-31"
-  """
+
 
 +++
