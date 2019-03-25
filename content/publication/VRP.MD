@@ -1,6 +1,6 @@
 +++
-title = "Value Timing: Risk and Return Across Asset Classes"
-date = "2018-03-01T00:00:00"
+title = "Value Return Predictability Across Asset Classes and Commonalities in Risk Premia"
+date = "2018-06-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Fahiz Baba-Yara", "Martijn Boons", "Andrea Tamoni"]
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Returns to value strategies in individual equities, commodities, currencies, global bonds and stock indexes are predictable by the value spread. Common and asset-class-specific components of the value spread contribute equally to this predictability. Return variation due to common value is closely associated with standard proxies for risk premia, such as dividend yield, intermediary leverage and illiquidity, but it is at odds with models that exclusively generate a value premium in equities. Return variation due to asset-class-specific value presents another challenge for asset pricing models. The outperformance of value timing and rotation strategies indicates that investors can benefit from the value spread in real-time."
+abstract = "We show that returns to value strategies in individual equities, currencies, global stock indexes, global government bonds, and commodities are predictable by the value spread. This fact is at odds with models that exclusively generate a value premium in equities. Common and asset-class-specific components of the value spread contribute equally to this predictability. We argue that common variation in value premia is consistent with rationally time-varying expected returns, most importantly because (i) common value is closely associated with standard proxies for risk premia, such as the dividend yield, intermediary leverage and illiquidity, and (ii) value premia are globally high in bad times. In contrast, expected returns to momentum strategies are largely unrelated to standard proxies for risk premia, and, if anything, low in bad times."
 
 # Featured image thumbnail (optional)
 #image_preview = ""
