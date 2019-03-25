@@ -34,7 +34,7 @@ weight = 12
   
 [[feature]]
   icon = "python"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Python"
   
 [[feature]]
