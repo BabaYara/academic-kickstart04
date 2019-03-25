@@ -34,6 +34,15 @@ date_format = "January 2006"
   location = "Accra, Ghana"
   date_start = "2010-10-31"
   date_end = "2013-07-31"
+  
+  
+  [[experience]]
+  title = "Teaching Assistant"
+  company = "NOVA School of Business and Economics"
+  company_url = ""
+  location = "Accra, Ghana"
+  date_start = "2016-09-01"
+  date_end = ""
 
 
 +++
