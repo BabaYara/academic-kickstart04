@@ -33,11 +33,6 @@ weight = 12
   name = "Python"
   
 [[feature]]
-  icon = "python"
-  icon_pack = "fas"
-  name = "Python"
-  
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
