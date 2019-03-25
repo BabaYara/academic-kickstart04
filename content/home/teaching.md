@@ -11,12 +11,10 @@ title = "Teaching Assistant"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 5
 
 +++
 - Corporate Finance [Msc, 2016, 2017]
-- Corporate Finance [MBA, 2018]
-- Asset Management  [Msc, 2018]
+- Corporate Finance [MBA, 2018, 2019]
+- Asset Management  [Msc, 2018, 2019]
 - Investments       [Msc, 2018]
-- Asset Management  [Msc, 2019]
-- Corporate Finance [MBA, 2019]
