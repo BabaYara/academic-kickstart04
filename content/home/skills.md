@@ -10,7 +10,7 @@ title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 7
+weight = 12
 
 # Showcase personal skills or business features.
 # 
@@ -34,9 +34,9 @@ weight = 7
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "open-access"
+  icon_pack = "ai"
+  name = "Open Access"
+  # description = "10%"
 
 +++
