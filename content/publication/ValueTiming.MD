@@ -1,5 +1,5 @@
 +++
-title = "Volatility Risk Premium in Commodity Markets"
+title = "Value Return Predictability Across Asset Classes and Commonalities in Risk Premia"
 date = "2017-09-21T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We investigate the relationship between volatility risk premia (the difference between realized volatility and implied volatility) and commodity returns, using a strategy that that buys cheap to-insure commodity futures and sells expensive to-insure commodity futures. We find that this strategy (dubbed VRP) delivers a substantial risk adjusted average nearby return. We also find that individual commodity VRP does not predict own returns in the time series. Furthermore, the commodity futures VRP return stream is not related to the widely traded benchmarks (basis and return momentum), and so provides an alternative source of diversified returns."
+abstract = "We show that returns to value strategies in individual equities, currencies, global stock indexes, global government bonds, and commodities are predictable by the value spread. This fact is at odds with models that exclusively generate a value premium in equities. Common and asset-class-specific components of the value spread contribute equally to this predictability. We argue that common variation in value premia is consistent with rationally time-varying expected returns, most importantly because (i) common value is closely associated with standard proxies for risk premia, such as the dividend yield, intermediary leverage and illiquidity, and (ii) value premia are globally high in bad times. In contrast, expected returns to momentum strategies are largely unrelated to standard proxies for risk premia, and, if anything, low in bad times."
 abstract_short = "PDF Available Upon Request"
 
 # Featured image thumbnail (optional)
