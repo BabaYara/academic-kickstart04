@@ -20,9 +20,9 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://microsites.gam.com/nova-gam-conference-lisbon/"
 url_video = ""
-url_code = "https://microsites.gam.com/nova-gam-conference-lisbon/"
+url_code = ""
 
 # Does the content use math formatting?
 math = false
