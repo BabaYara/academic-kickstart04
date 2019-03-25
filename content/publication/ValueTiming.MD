@@ -1,5 +1,5 @@
 +++
-title = "Value Return Predictability Across Asset Classes and Commonalities in Risk Premia"
+title = "Volatility Risk Premium in Commodity Markets"
 date = "2017-09-21T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
