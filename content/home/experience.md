@@ -40,7 +40,7 @@ date_format = "January 2006"
   title = "Teaching Assistant"
   company = "NOVA School of Business and Economics"
   company_url = ""
-  location = "Accra, Ghana"
+  location = "Carcavelos, Portugal"
   date_start = "2016-09-01"
   date_end = ""
 
