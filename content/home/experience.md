@@ -37,6 +37,6 @@ date_format = "January 2006"
   location = "Accra, Ghana"
   date_start = "2010-10-31"
   date_end = "2013-07-31"
-  #description = """Taught electronic engineering and researched semiconductor physics."""
+  """
 
 +++
