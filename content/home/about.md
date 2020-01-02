@@ -19,7 +19,7 @@ weight = 1
 [[education.courses]]
  course = "PhD in Finance"
   institution = "NOVA School of Business and Economics"
-  year = "2020 (Expected)"
+  year = "2021 (Expected)"
 
 [[education.courses]]
   course = "MSc in Economics and Business Administration"
