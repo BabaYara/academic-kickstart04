@@ -35,10 +35,10 @@ selected = false
 # projects = ["Return Predictability"]
 
 # Links (optional).
-url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3054017"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
+url_pdf = "https://academic.oup.com/rof/advance-article-abstract/doi/10.1093/rof/rfaa011/5812791?redirectedFrom=fulltext"
+url_preprint = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3054017"
+url_code = "https://github.com/BabaYara/Value_Return_Predictability_Across_Asset_Classes_and_Commonalities_in_Risk_Premia"
+url_dataset ="https://github.com/BabaYara/Value_Return_Predictability_Across_Asset_Classes_and_Commonalities_in_Risk_Premia/tree/master/Datasets"
 url_project = ""
 url_slides = ""
 url_video = ""
