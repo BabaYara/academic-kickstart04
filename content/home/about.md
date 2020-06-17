@@ -35,6 +35,6 @@ weight = 1
 
 # About Me
 
-I am a PhD student in Finance studying at NOVA School of Business and Economics. My research interest lies at the intersection of Return Predictability, Machine Learning, and  Financial Econometrics. I am particularly interested in answering the question of whether or not portfolios that leverage our improved ability to estimate future returns are priced by existing asset pricing models. 
+I am a Ph.D. candidate in Finance studying at NOVA School of Business and Economics. My research interest lies at the intersection of Return Predictability, Machine Learning, and Financial Econometrics. I am particularly interested in answering the question of whether or not portfolios that leverage our improved ability to estimate future returns are priced by existing asset pricing models. 
 
-I am currenrtly in the 4th year of the program and look set to graduate in 2020.
+I am currently in the 5th year of the program and look set to graduate in 2021.
