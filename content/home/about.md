@@ -37,4 +37,4 @@ weight = 1
 
 I am a Ph.D. candidate in Finance studying at NOVA School of Business and Economics. My research interest lies at the intersection of Return Predictability, Machine Learning, and Financial Econometrics. I am particularly interested in answering the question of whether or not portfolios that leverage our improved ability to estimate future returns are priced by existing asset pricing models. 
 
-I am currently in the 6th year of the program and look set to graduate in 2021.
+I am currently in the 6th year of the program. I am on the 2020-2021 job market and will be available for virtual interviews at the 2020 ASSA Annual Meeting and the 3rd European Job Market for Economist (2020).
