@@ -1,5 +1,5 @@
 +++
-title = "Value Return Predictability Across Asset Classes and Commonalities in Risk Premia [Review of Finance (Forthcoming)]"
+title = "Value Return Predictability Across Asset Classes and Commonalities in Risk Premia"
 date = "2020-02-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
